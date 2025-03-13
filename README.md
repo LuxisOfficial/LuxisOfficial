@@ -1,13 +1,13 @@
 <h1 align="center">Merhaba, ben Luxis 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Geliştirici;Teknolojiye+Tutkulu;Node.js+%7C+React+%7C+Tailwind+%7C+Vite;Python+%7C+APIs+%7C+Web+Geliştirme" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Geliştirici;+;Node.js+%7C+React+%7C+Tailwind+%7C+Vite;Python+%7C++%7C+Web+Geliştirme" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 Hakkımda
-- 🚀 **Web Geliştirme ile uğraşıyorun.**
+- 🚀 **Web Geliştirme ile uğraşıyorum.**
 - 💻 **Node.js, React, Tailwind, Vite, Python, HTML, CSS** üzerinde çalışıyorum  
 - 📍 **Antalya, Türkiye**'de yaşıyorum  
 
