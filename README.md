@@ -23,9 +23,9 @@
 
 ### 📊 GitHub İstatistiklerim:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luxis&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuxisOfficial&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luxis&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuxisOfficial&theme=tokyonight" />
 </p>
 
 ---
